@@ -1,0 +1,12 @@
+{
+    "ID":"",
+    "ActionKeyword":"opencc",
+    "Name":"Chinese Converter",
+    "Description":"簡繁轉換",
+    "Author":"wfH",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/magicdmer/Wox.Plugin.Tips",
+    "IcoPath": "Images\\icon.png", 
+    "ExecuteFileName":"main.py"
+}
