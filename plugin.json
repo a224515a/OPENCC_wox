@@ -1,10 +1,10 @@
 {
-    "ID":"ru03z065j03cj04_1.0.0",
-    "ActionKeyword":"opencc",
+    "ID":"ru03z065j03cj04_1.2.0",
+    "ActionKeyword":"cc",
     "Name":"Chinese Converter",
     "Description":"簡繁轉換",
     "Author":"wfH",
-    "Version":"1.0.0",
+    "Version":"1.2.0",
     "Language":"python",
     "Website":"https://github.com/a224515a/OPENCC_wox",
     "IcoPath": "Images\\icon.png", 
