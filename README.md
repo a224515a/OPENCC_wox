@@ -22,22 +22,63 @@
 
 #### Conversions
 
-  * `s2t`<img src="Images/s2t.png" style="zoom:25%;" />: Simplified Chinese to Traditional Chinese 簡體到繁體
-  * `t2s`<img src="Images/t2s.png" style="zoom:25%;" />: Traditional Chinese to Simplified Chinese 繁體到簡體
-  * `s2tw`<img src="Images/s2tw.png" style="zoom:25%;" />: Simplified Chinese to Traditional Chinese (Taiwan Standard) 簡體到臺灣正體
-  * `tw2s`<img src="Images/tw2s.png" style="zoom:25%;" />: Traditional Chinese (Taiwan Standard) to Simplified Chinese 臺灣正體到簡體
-  * `s2hk`<img src="Images/s2hk.png" style="zoom:25%;" />: Simplified Chinese to Traditional Chinese (Hong Kong variant) 簡體到香港繁體
-  * `hk2s`<img src="Images/hk2s.png" style="zoom:25%;" />: Traditional Chinese (Hong Kong variant) to Simplified Chinese 香港繁體到簡體
-  * `s2twp`<img src="Images/s2twp.png" style="zoom:25%;" />: Simplified Chinese to Traditional Chinese (Taiwan Standard) with Taiwanese idiom 簡體到繁體（臺灣正體標準）並轉換爲臺灣常用詞彙
-  * `tw2sp`<img src="Images/tw2sp.png" style="zoom:25%;" />: Traditional Chinese (Taiwan Standard) to Simplified Chinese with Mainland Chinese idiom 繁體（臺灣正體標準）到簡體並轉換爲中國大陸常用詞彙
-  * `t2tw`<img src="Images/t2tw.png" style="zoom:25%;" />: Traditional Chinese (OpenCC Standard) to Taiwan Standard 繁體（OpenCC 標準）到臺灣正體
-  * `hk2t`<img src="Images/hk2t.png" style="zoom:25%;" />: Traditional Chinese (Hong Kong variant) to Traditional Chinese 香港繁體到繁體（OpenCC 標準）
-  * `t2hk`<img src="Images/t2hk.png" style="zoom:25%;" />: Traditional Chinese (OpenCC Standard) to Hong Kong variant 繁體（OpenCC 標準）到香港繁體
-  * `t2jp`<img src="Images/t2jp.png" style="zoom:25%;" />: Traditional Chinese Characters (Kyūjitai) to New Japanese Kanji (Shinjitai) 繁體（OpenCC 標準，舊字體）到日文新字體
-  * `jp2t`<img src="Images/jp2t.png" style="zoom:25%;" />: New Japanese Kanji (Shinjitai) to Traditional Chinese Characters (Kyūjitai) 日文新字體到繁體（OpenCC 標準，舊字體）
-  * `tw2t`<img src="Images/tw2t.png" style="zoom:25%;" />: Traditional Chinese (Taiwan standard) to Traditional Chinese 臺灣正體到繁體（OpenCC 標準）
+  * `s2t`<img src="Images/s2t.png" style="zoom:15%;" />: Simplified Chinese to Traditional Chinese 簡體到繁體
+
+	
+
+  * `t2s`<img src="Images/t2s.png" style="zoom:15%;" />: Traditional Chinese to Simplified Chinese 繁體到簡體
+
+	
+
+  * `s2tw`<img src="Images/s2tw.png" style="zoom:15%;" />: Simplified Chinese to Traditional Chinese (Taiwan Standard) 簡體到臺灣正體
+
+
+
+  * `tw2s`<img src="Images/tw2s.png" style="zoom:15%;" />: Traditional Chinese (Taiwan Standard) to Simplified Chinese 臺灣正體到簡體
+
+
+
+  * `s2hk`<img src="Images/s2hk.png" style="zoom:15%;" />: Simplified Chinese to Traditional Chinese (Hong Kong variant) 簡體到香港繁體
+
+
+
+  * `hk2s`<img src="Images/hk2s.png" style="zoom:15%;" />: Traditional Chinese (Hong Kong variant) to Simplified Chinese 香港繁體到簡體
+
+
+
+  * `s2twp`<img src="Images/s2twp.png" style="zoom:15%;" />: Simplified Chinese to Traditional Chinese (Taiwan Standard) with Taiwanese idiom 簡體到繁體（臺灣正體標準）並轉換爲臺灣常用詞彙
+
+
+
+  * `tw2sp`<img src="Images/tw2sp.png" style="zoom:15%;" />: Traditional Chinese (Taiwan Standard) to Simplified Chinese with Mainland Chinese idiom 繁體（臺灣正體標準）到簡體並轉換爲中國大陸常用詞彙
+
+
+
+  * `t2tw`<img src="Images/t2tw.png" style="zoom:15%;" />: Traditional Chinese (OpenCC Standard) to Taiwan Standard 繁體（OpenCC 標準）到臺灣正體
+
+
+
+  * `hk2t`<img src="Images/hk2t.png" style="zoom:15%;" />: Traditional Chinese (Hong Kong variant) to Traditional Chinese 香港繁體到繁體（OpenCC 標準）
+
+
+
+  * `t2hk`<img src="Images/t2hk.png" style="zoom:15%;" />: Traditional Chinese (OpenCC Standard) to Hong Kong variant 繁體（OpenCC 標準）到香港繁體
+
+
+
+  * `t2jp`<img src="Images/t2jp.png" style="zoom:15%;" />: Traditional Chinese Characters (Kyūjitai) to New Japanese Kanji (Shinjitai) 繁體（OpenCC 標準，舊字體）到日文新字體
+
+
+
+  * `jp2t`<img src="Images/jp2t.png" style="zoom:15%;" />: New Japanese Kanji (Shinjitai) to Traditional Chinese Characters (Kyūjitai) 日文新字體到繁體（OpenCC 標準，舊字體）
+
+
+
+  * `tw2t`<img src="Images/tw2t.png" style="zoom:15%;" />: Traditional Chinese (Taiwan standard) to Traditional Chinese 臺灣正體到繁體（OpenCC 標準）
+
 
 
 ## Credits
+
 [yichen0831](https://github.com/yichen0831/opencc-python) for [opencc-python](https://github.com/yichen0831/opencc-python).
 [BYVoid](https://github.com/BYVoid/OpenCC) for [OpenCC](https://github.com/BYVoid/OpenCC).
